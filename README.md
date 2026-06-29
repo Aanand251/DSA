@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aanand251/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanand251/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aanand251/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
