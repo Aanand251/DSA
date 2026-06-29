@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aanand251/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanand251/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/Aanand251/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aanand251/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanand251/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aanand251/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
