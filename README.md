@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Aanand251/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aanand251/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aanand251/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aanand251/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aanand251/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
