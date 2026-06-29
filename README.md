@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aanand251/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aanand251/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanand251/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Aanand251/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aanand251/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aanand251/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aanand251/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aanand251/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aanand251/DSA/tree/master/0287-find-the-duplicate-number) |
