@@ -1,6 +1,6 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         int n = nums.length;
         int res[] = new int[n];
       
