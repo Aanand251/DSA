@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aanand251/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aanand251/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Aanand251/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Aanand251/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aanand251/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aanand251/DSA/tree/master/0509-fibonacci-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aanand251/DSA/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Combinatorics
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aanand251/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aanand251/DSA/tree/master/1189-maximum-number-of-balloons) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanand251/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
