@@ -8,18 +8,17 @@ class Solution {
             map.put(s.charAt(i) , map.getOrDefault(s.charAt(i) , 0)+1);
         }
         for(Character key : map.keySet()){
-         if (map.get(key) % 2 == 0 ) {
-             len += map.get(key);
-        }
-          else {
-          len += map.get(key) - 1 ;
+        int freq = map.get(key);
+        if (freq % 2 == 0) {
+          len += freq;
+         } else {
+          len += freq - 1;
           odd = true;
-         }
+     }
       }
-
-      if(odd){
+     if(odd){
     len++;
-}
+   }
         return len ;
         
     }
