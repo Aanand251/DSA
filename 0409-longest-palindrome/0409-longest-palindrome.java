@@ -4,9 +4,6 @@ class Solution {
         int len = 0;
         boolean odd = false ;
         HashMap<Character, Integer> map = new HashMap<>();
-        if(n==1){
-            return 1;
-        }
         for(int i = 0; i<n ; i++){
             map.put(s.charAt(i) , map.getOrDefault(s.charAt(i) , 0)+1);
         }
