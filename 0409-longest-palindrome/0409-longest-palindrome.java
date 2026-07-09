@@ -11,7 +11,7 @@ class Solution {
          if (map.get(key) % 2 == 0 ) {
              len += map.get(key);
         }
-        if (map.get(key) % 2 == 1) {
+          else {
           len += map.get(key) - 1 ;
           odd = true;
          }
