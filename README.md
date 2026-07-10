@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aanand251/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Aanand251/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aanand251/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Aanand251/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanand251/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aanand251/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aanand251/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Aanand251/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aanand251/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aanand251/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aanand251/DSA/tree/master/0342-power-of-four) |
