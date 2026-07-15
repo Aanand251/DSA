@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aanand251/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aanand251/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
 | ------- |
