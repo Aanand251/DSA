@@ -1,13 +1,43 @@
 class Solution {
     public int search(int[] nums, int target) {
         int n = nums.length;
-        int res = -1;
+        int high = n - 1;
+        int low = 0;
+       
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (nums[mid] == target) 
+                return mid;
+                
+            if (nums[mid] > nums[n-1] ) {
+                  if(nums[mid]<target){
+                    low = mid+1;
+                  }
+                  else{
+                    if(nums[0]>target){
+                        low = mid+1;
+                    }
+                    else{
+                        high = mid-1;
+                    }
+                  }
+            } 
 
-        for(int i = 0 ; i<n; i++){
-            if(nums[i]==target){
-                res = i;
+           else{
+            if(nums[mid]<target){
+                if(nums[n-1]<target){
+                    high = mid - 1;
+                }
+                else{
+                    low = mid +1;
+                }
             }
+            else{
+                high = mid -1;
+            }
+          }
         }
-        return res;
+
+        return -1;
     }
 }
