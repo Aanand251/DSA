@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aanand251/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aanand251/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aanand251/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Aanand251/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aanand251/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aanand251/DSA/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Aanand251/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aanand251/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Aanand251/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aanand251/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aanand251/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Aanand251/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aanand251/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Aanand251/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aanand251/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aanand251/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aanand251/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aanand251/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aanand251/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aanand251/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aanand251/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aanand251/DSA/tree/master/1189-maximum-number-of-balloons) |
