@@ -14,7 +14,6 @@ class Solution {
         while(low<=high){
             int mid = low +(high - low)/2;
             int ans = fun(m,n,mid);
-
             if(ans<k){
                 low = mid+1;
             }
