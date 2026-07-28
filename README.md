@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aanand251/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aanand251/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aanand251/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2460-apply-operations-to-an-array](https://github.com/Aanand251/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Aanand251/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aanand251/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/Aanand251/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [2460-apply-operations-to-an-array](https://github.com/Aanand251/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
