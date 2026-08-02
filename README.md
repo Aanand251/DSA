@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aanand251/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aanand251/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aanand251/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Aanand251/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Aanand251/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aanand251/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aanand251/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Aanand251/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Aanand251/DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Aanand251/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0877-stone-game](https://github.com/Aanand251/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aanand251/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Aanand251/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanand251/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aanand251/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Aanand251/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Aanand251/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aanand251/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aanand251/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aanand251/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aanand251/DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Aanand251/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
