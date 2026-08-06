@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aanand251/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aanand251/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
