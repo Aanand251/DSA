@@ -3,17 +3,12 @@ class Solution {
             ListNode dummy = new ListNode(0);
                dummy.next = head;
             ListNode prev = dummy;
-        
            while (prev.next != null && prev.next.next != null) {
             ListNode first = prev.next;
-            ListNode second = prev.next.next;
-            
-            // Swapping
+            ListNode second = prev.next.next;  
             first.next = second.next;
             second.next = first;
             prev.next = second;
-            
-            // Move prev forward for next swap
             prev = first;
         }
         
