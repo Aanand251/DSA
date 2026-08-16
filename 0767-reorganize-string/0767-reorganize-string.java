@@ -10,7 +10,7 @@ class Solution {
     } 
 
     public String reorganizeString(String s) { 
-        HashMap<Character, Integer> map = new HashMap<>(); 
+        HashMap<Character, Integer> map = new HashMap<>(s.length()); 
 
         Comparator<pair> comparator = (a, b) -> { 
             return b.freq - a.freq; 
