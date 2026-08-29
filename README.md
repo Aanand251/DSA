@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aanand251/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aanand251/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aanand251/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aanand251/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanand251/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Aanand251/DSA/tree/master/0525-contiguous-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aanand251/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aanand251/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Aanand251/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanand251/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/Aanand251/DSA/tree/master/0692-top-k-frequent-words) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aanand251/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aanand251/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Aanand251/DSA/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/Aanand251/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Aanand251/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Aanand251/DSA/tree/master/0767-reorganize-string) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aanand251/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aanand251/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Aanand251/DSA/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Aanand251/DSA/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aanand251/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
