@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aanand251/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aanand251/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2460-apply-operations-to-an-array](https://github.com/Aanand251/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3903-smallest-stable-index-i](https://github.com/Aanand251/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aanand251/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aanand251/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aanand251/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3903-smallest-stable-index-i](https://github.com/Aanand251/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
