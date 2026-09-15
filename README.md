@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aanand251/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aanand251/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aanand251/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aanand251/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aanand251/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Aanand251/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aanand251/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aanand251/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aanand251/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aanand251/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Aanand251/DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Aanand251/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aanand251/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aanand251/DSA/tree/master/0268-missing-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aanand251/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Aanand251/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aanand251/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aanand251/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Aanand251/DSA/tree/master/0231-power-of-two) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aanand251/DSA/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aanand251/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Aanand251/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aanand251/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
