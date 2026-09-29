@@ -34,7 +34,6 @@ class Solution {
         low = guess+1;
     }
     }
-
     return new int[]{first,last};
 }
 }
